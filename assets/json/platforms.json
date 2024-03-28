@@ -1,0 +1,55 @@
+{
+    "cian": {
+        "xpath":{
+            "content": "//article[@data-name=\"CardComponent\"]",
+            "link": "./div/a/@href[1]",
+            "count":"//*[@id='frontend-serp']/div/div[3]/div[1]/div[1]",
+            "cards": {
+                "img": ".//div[@data-name=\"Gallery\"]/div/ul/li/img[position() = 1]/@src",
+                "title": ".//span[@data-mark=\"OfferTitle\"]/span/text()",
+                
+                "subway_name": ".//div[@data-name=\"SpecialGeo\"]/a/div[2]/text()",
+                "subway_time": ".//div[@data-name=\"SpecialGeo\"]/div/text()",
+                
+                "address": ".//a[@data-name=\"GeoLabel\"]/text()",
+                "price": ".//span[@data-mark=\"MainPrice\"]/span/text()",
+                "meta": ".//p[@data-mark=\"PriceInfo\"]/text()",
+                "description": ".//div[@data-name=\"Description\"]/p/text()",
+
+                "time":".//div[@data-name=\"TimeLabel\"]/div[2]/span/text()"
+            },
+            "pagination": {
+                "content": "//nav[@data-name=\"Pagination\"]/ul/li/*[self::button or self::a]/span/text()",
+                "current": "//nav[@data-name=\"Pagination\"]/ul/li/button/span/text()"
+            }
+        },
+    "icon":"cian.png"
+    },
+    "avito": {
+        "xpath":{
+            "content":"//div[@data-marker=\"item\"]",
+            "count":"//span[@data-marker=\"page-title/count\"]",
+            "link":".//a[@itemprop=\"url\"]/@href",
+            "cards":{
+                "img":".//li[starts-with(@data-marker,\"slider-image\")]//img/@src",
+                "title":".//h3[@itemprop=\"name\"]/text()",
+
+                "subway_name":".//div[@data-marker=\"item-address\"]/div/p[2]/span[2]/text()",
+                "subway_time":".//div[@data-marker=\"item-address\"]/div/p[2]/span[3]/text()",
+
+                "address":".//div[@data-marker=\"item-address\"]/div/p[1]/span/text()",
+                "price":".//meta[@itemprop=\"price\"]/@content",
+                "meta":".//p[@data-marker=\"item-specific-params\"]/text()",
+                "description":".//meta[@itemprop=\"description\"]/@content",
+
+                "time":".//p[@data-marker=\"item-date\"]/text()"
+            },
+            "pagination":{
+                "content":"//ul[@data-marker=\"pagination-button\"]/li[not(contains(@class,\"arrow\"))]/*[self::a or self::span]/span/text()",
+                "current":"//ul[@data-marker=\"pagination-button\"]//span[@aria-current=\"page\"]/span/text()"
+            }
+            
+        },
+        "icon":"avito.png"
+    }
+ }

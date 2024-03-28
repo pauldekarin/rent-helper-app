@@ -1,0 +1,1183 @@
+2024-01-06 16:20:41,492 [INFO] Get User Credentials
+2024-01-06 16:20:41,492 [INFO] Sign In test@mail.ru
+2024-01-06 16:20:41,989 [INFO] Sign In Success
+2024-01-06 16:20:41,991 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:20:54,829 [INFO] Closing APP
+2024-01-06 16:21:48,144 [INFO] Get User Credentials
+2024-01-06 16:21:48,144 [INFO] Sign In test@mail.ru
+2024-01-06 16:21:49,082 [INFO] Sign In Success
+2024-01-06 16:21:49,083 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:21:58,168 [INFO] Set Comment https://www.cian.ru/rent/flat/296971516/: "a" 
+2024-01-06 16:21:58,448 [INFO] Set Comment https://www.cian.ru/rent/flat/296971516/: "as" 
+2024-01-06 16:21:58,757 [INFO] Set Comment https://www.cian.ru/rent/flat/296971516/: "asd" 
+2024-01-06 16:21:59,064 [INFO] Set Comment https://www.cian.ru/rent/flat/296971516/: "asda" 
+2024-01-06 16:21:59,419 [INFO] Set Comment https://www.cian.ru/rent/flat/296971516/: "asdad" 
+2024-01-06 16:22:02,361 [INFO] Set Favourite https://www.cian.ru/rent/flat/296971516/
+2024-01-06 16:23:38,015 [INFO] Get User Credentials
+2024-01-06 16:23:38,016 [INFO] Sign In test@mail.ru
+2024-01-06 16:23:38,655 [INFO] Sign In Success
+2024-01-06 16:23:38,656 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:23:45,443 [INFO] Closing APP
+2024-01-06 16:24:01,714 [INFO] Get User Credentials
+2024-01-06 16:24:01,715 [INFO] Sign In test@mail.ru
+2024-01-06 16:24:02,246 [INFO] Sign In Success
+2024-01-06 16:24:02,247 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:24:12,534 [INFO] Page AVITO 45
+2024-01-06 16:24:27,093 [INFO] Closing APP
+2024-01-06 16:26:44,304 [INFO] Get User Credentials
+2024-01-06 16:26:44,305 [INFO] Sign In test@mail.ru
+2024-01-06 16:26:44,790 [INFO] Sign In Success
+2024-01-06 16:26:44,792 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:26:50,674 [INFO] Closing APP
+2024-01-06 16:40:39,106 [INFO] Get User Credentials
+2024-01-06 16:40:39,106 [INFO] Sign In test@mail.ru
+2024-01-06 16:40:39,726 [INFO] Sign In Success
+2024-01-06 16:40:39,727 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:40:41,762 [INFO] Closing APP
+2024-01-06 16:40:53,856 [INFO] Get User Credentials
+2024-01-06 16:40:53,856 [INFO] Sign In test@mail.ru
+2024-01-06 16:40:54,467 [INFO] Sign In Success
+2024-01-06 16:40:54,468 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:40:56,087 [INFO] Closing APP
+2024-01-06 16:41:38,510 [INFO] Get User Credentials
+2024-01-06 16:41:38,511 [INFO] Sign In test@mail.ru
+2024-01-06 16:41:39,219 [INFO] Sign In Success
+2024-01-06 16:41:39,221 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:41:43,708 [INFO] Closing APP
+2024-01-06 16:42:56,997 [INFO] Get User Credentials
+2024-01-06 16:42:56,997 [INFO] Sign In test@mail.ru
+2024-01-06 16:42:57,570 [INFO] Sign In Success
+2024-01-06 16:42:57,571 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:43:01,650 [INFO] Page CIAN 2
+2024-01-06 16:43:04,822 [INFO] Closing APP
+2024-01-06 16:44:24,799 [INFO] Get User Credentials
+2024-01-06 16:44:24,800 [INFO] Sign In test@mail.ru
+2024-01-06 16:44:25,420 [INFO] Sign In Success
+2024-01-06 16:44:25,422 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:45:18,543 [INFO] Get User Credentials
+2024-01-06 16:45:18,543 [INFO] Sign In test@mail.ru
+2024-01-06 16:45:19,308 [INFO] Sign In Success
+2024-01-06 16:45:19,310 [INFO] Get Favourites From Cloud Data
+2024-01-06 16:45:27,959 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-06 16:45:27,965 [INFO] Handle new URL : https://cian.ru/cat.php?currency=2&deal_type=rent&engine_version=2&maxprice=9999999999&minprice=0&offer_type=flat&region=4637&room1=0&room2=0&room3=0&room4=0&room5=0&room6=0&room7=0&room9=0&type=4&sort=creation_date_desc
+2024-01-06 16:45:35,406 [INFO] Closing APP
+2024-01-06 18:19:07,756 [INFO] Get User Credentials
+2024-01-06 18:19:07,756 [INFO] Sign In test@mail.ru
+2024-01-06 18:19:08,571 [INFO] Sign In Success
+2024-01-06 18:19:08,573 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:19:14,627 [INFO] Closing APP
+2024-01-06 18:20:17,455 [INFO] Get User Credentials
+2024-01-06 18:20:17,456 [INFO] Sign In test@mail.ru
+2024-01-06 18:20:18,169 [INFO] Sign In Success
+2024-01-06 18:20:18,171 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:20:24,298 [INFO] Closing APP
+2024-01-06 18:24:02,397 [INFO] Get User Credentials
+2024-01-06 18:24:02,397 [INFO] Sign In test@mail.ru
+2024-01-06 18:24:03,070 [INFO] Sign In Success
+2024-01-06 18:24:03,071 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:24:08,154 [INFO] Closing APP
+2024-01-06 18:24:12,245 [INFO] Get User Credentials
+2024-01-06 18:24:12,245 [INFO] Sign In test@mail.ru
+2024-01-06 18:24:12,759 [INFO] Sign In Success
+2024-01-06 18:24:12,759 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:24:16,103 [INFO] Closing APP
+2024-01-06 18:24:34,800 [INFO] Get User Credentials
+2024-01-06 18:24:34,800 [INFO] Sign In test@mail.ru
+2024-01-06 18:24:35,762 [INFO] Sign In Success
+2024-01-06 18:24:35,763 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:25:11,326 [INFO] Get User Credentials
+2024-01-06 18:25:11,327 [INFO] Sign In test@mail.ru
+2024-01-06 18:25:11,939 [INFO] Sign In Success
+2024-01-06 18:25:11,941 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:26:42,983 [INFO] Closing APP
+2024-01-06 18:26:45,442 [INFO] Get User Credentials
+2024-01-06 18:26:45,442 [INFO] Sign In test@mail.ru
+2024-01-06 18:26:46,379 [INFO] Sign In Success
+2024-01-06 18:26:46,380 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:26:49,103 [INFO] Closing APP
+2024-01-06 18:27:25,144 [INFO] Get User Credentials
+2024-01-06 18:27:25,145 [INFO] Sign In test@mail.ru
+2024-01-06 18:27:25,822 [INFO] Sign In Success
+2024-01-06 18:27:25,823 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:27:28,550 [INFO] Closing APP
+2024-01-06 18:27:36,725 [INFO] Get User Credentials
+2024-01-06 18:27:36,726 [INFO] Sign In test@mail.ru
+2024-01-06 18:27:37,231 [INFO] Sign In Success
+2024-01-06 18:27:37,233 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:28:28,617 [INFO] Closing APP
+2024-01-06 18:28:30,391 [INFO] Get User Credentials
+2024-01-06 18:28:30,391 [INFO] Sign In test@mail.ru
+2024-01-06 18:28:31,044 [INFO] Sign In Success
+2024-01-06 18:28:31,045 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:28:58,216 [INFO] Closing APP
+2024-01-06 18:29:00,659 [INFO] Get User Credentials
+2024-01-06 18:29:00,660 [INFO] Sign In test@mail.ru
+2024-01-06 18:29:01,326 [INFO] Sign In Success
+2024-01-06 18:29:01,327 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:29:08,144 [INFO] Closing APP
+2024-01-06 18:29:53,309 [INFO] Get User Credentials
+2024-01-06 18:29:53,309 [INFO] Sign In test@mail.ru
+2024-01-06 18:29:54,028 [INFO] Sign In Success
+2024-01-06 18:29:54,029 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:30:12,984 [INFO] Closing APP
+2024-01-06 18:31:05,490 [INFO] Get User Credentials
+2024-01-06 18:31:05,490 [INFO] Sign In test@mail.ru
+2024-01-06 18:31:06,102 [INFO] Sign In Success
+2024-01-06 18:31:06,102 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:31:27,700 [INFO] Closing APP
+2024-01-06 18:32:02,503 [INFO] Get User Credentials
+2024-01-06 18:32:02,504 [INFO] Sign In test@mail.ru
+2024-01-06 18:32:03,580 [INFO] Sign In Success
+2024-01-06 18:32:03,581 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:32:08,384 [INFO] Closing APP
+2024-01-06 18:32:29,432 [INFO] Get User Credentials
+2024-01-06 18:32:29,432 [INFO] Sign In test@mail.ru
+2024-01-06 18:32:30,123 [INFO] Sign In Success
+2024-01-06 18:32:30,124 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:32:43,282 [INFO] Closing APP
+2024-01-06 18:32:58,388 [INFO] Get User Credentials
+2024-01-06 18:32:58,388 [INFO] Sign In test@mail.ru
+2024-01-06 18:32:59,278 [INFO] Sign In Success
+2024-01-06 18:32:59,278 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:33:26,675 [INFO] Closing APP
+2024-01-06 18:34:02,048 [INFO] Get User Credentials
+2024-01-06 18:34:02,048 [INFO] Sign In test@mail.ru
+2024-01-06 18:34:03,050 [INFO] Sign In Success
+2024-01-06 18:34:03,050 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:34:05,886 [INFO] Closing APP
+2024-01-06 18:34:14,028 [INFO] Get User Credentials
+2024-01-06 18:34:14,029 [INFO] Sign In test@mail.ru
+2024-01-06 18:34:14,744 [INFO] Sign In Success
+2024-01-06 18:34:14,745 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:34:18,186 [INFO] Closing APP
+2024-01-06 18:34:26,481 [INFO] Get User Credentials
+2024-01-06 18:34:26,481 [INFO] Sign In test@mail.ru
+2024-01-06 18:34:27,175 [INFO] Sign In Success
+2024-01-06 18:34:27,177 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:34:31,282 [INFO] Closing APP
+2024-01-06 18:35:24,865 [INFO] Get User Credentials
+2024-01-06 18:35:24,865 [INFO] Sign In test@mail.ru
+2024-01-06 18:35:25,390 [INFO] Sign In Success
+2024-01-06 18:35:25,392 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:35:31,581 [INFO] Closing APP
+2024-01-06 18:35:42,318 [INFO] Get User Credentials
+2024-01-06 18:35:42,319 [INFO] Sign In test@mail.ru
+2024-01-06 18:35:42,931 [INFO] Sign In Success
+2024-01-06 18:35:42,933 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:35:49,882 [INFO] Closing APP
+2024-01-06 18:36:14,846 [INFO] Get User Credentials
+2024-01-06 18:36:14,847 [INFO] Sign In test@mail.ru
+2024-01-06 18:36:15,425 [INFO] Sign In Success
+2024-01-06 18:36:15,426 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:36:23,231 [INFO] Closing APP
+2024-01-06 18:36:38,419 [INFO] Get User Credentials
+2024-01-06 18:36:38,420 [INFO] Sign In test@mail.ru
+2024-01-06 18:36:39,483 [INFO] Sign In Success
+2024-01-06 18:36:39,483 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:36:52,452 [INFO] Get User Credentials
+2024-01-06 18:36:52,452 [INFO] Sign In test@mail.ru
+2024-01-06 18:36:52,938 [INFO] Sign In Success
+2024-01-06 18:36:52,940 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:37:19,519 [INFO] Set Favourite https://www.cian.ru/rent/flat/296973318/
+2024-01-06 18:37:31,170 [INFO] Closing APP
+2024-01-06 18:37:33,653 [INFO] Get User Credentials
+2024-01-06 18:37:33,653 [INFO] Sign In test@mail.ru
+2024-01-06 18:37:34,469 [INFO] Sign In Success
+2024-01-06 18:37:34,469 [INFO] Get Favourites From Cloud Data
+2024-01-06 18:37:42,898 [INFO] Closing APP
+2024-01-06 18:38:07,173 [INFO] Get User Credentials
+2024-01-06 18:38:11,783 [INFO] Set Favourite https://www.cian.ru/rent/flat/296973318/
+2024-01-06 18:38:15,166 [INFO] Closing APP
+2024-01-06 18:38:44,701 [INFO] Get User Credentials
+2024-01-06 18:38:50,331 [INFO] Set Favourite https://www.cian.ru/rent/flat/296973318/
+2024-01-06 18:46:22,949 [INFO] Get User Credentials
+2024-01-06 18:48:50,924 [INFO] Closing APP
+2024-01-06 18:48:53,410 [INFO] Get User Credentials
+2024-01-06 18:49:05,050 [INFO] Closing APP
+2024-01-06 18:50:16,368 [INFO] Get User Credentials
+2024-01-06 18:50:25,284 [INFO] Closing APP
+2024-01-06 19:01:17,028 [INFO] Get User Credentials
+2024-01-06 19:02:08,857 [INFO] Get User Credentials
+2024-01-06 19:02:36,742 [INFO] Closing APP
+2024-01-06 19:02:39,635 [INFO] Get User Credentials
+2024-01-06 19:02:49,813 [INFO] Closing APP
+2024-01-06 19:05:40,723 [INFO] Get User Credentials
+2024-01-06 19:05:51,131 [INFO] Closing APP
+2024-01-06 19:07:37,175 [INFO] Get User Credentials
+2024-01-06 19:08:38,146 [INFO] Closing APP
+2024-01-06 19:09:26,833 [INFO] Get User Credentials
+2024-01-06 19:16:18,056 [INFO] Get User Credentials
+2024-01-06 19:19:04,230 [INFO] Closing APP
+2024-01-06 19:24:05,112 [INFO] Get User Credentials
+2024-01-06 19:24:16,107 [INFO] Get User Credentials
+2024-01-06 19:24:24,390 [INFO] Closing APP
+2024-01-06 19:28:23,352 [INFO] Closing APP
+2024-01-06 19:28:35,510 [INFO] Closing APP
+2024-01-06 19:28:47,256 [INFO] Closing APP
+2024-01-06 19:29:06,809 [INFO] Closing APP
+2024-01-06 19:31:30,176 [INFO] Closing APP
+2024-01-06 19:32:08,103 [INFO] Closing APP
+2024-01-06 19:32:59,681 [INFO] Get User Credentials
+2024-01-06 19:33:07,676 [INFO] Closing APP
+2024-01-06 19:33:29,596 [INFO] Get User Credentials
+2024-01-06 19:33:34,442 [INFO] Closing APP
+2024-01-06 19:34:11,334 [INFO] Get User Credentials
+2024-01-06 19:34:24,978 [INFO] Closing APP
+2024-01-06 19:35:59,807 [INFO] Get User Credentials
+2024-01-06 19:36:16,633 [INFO] Closing APP
+2024-01-06 19:37:18,326 [INFO] Get User Credentials
+2024-01-06 19:37:25,442 [INFO] Closing APP
+2024-01-06 19:37:54,072 [INFO] Get User Credentials
+2024-01-06 19:38:20,943 [INFO] Closing APP
+2024-01-06 19:38:37,200 [INFO] Get User Credentials
+2024-01-06 19:38:42,657 [INFO] Closing APP
+2024-01-06 19:38:59,416 [INFO] Get User Credentials
+2024-01-06 19:39:08,007 [INFO] Closing APP
+2024-01-06 19:39:39,481 [INFO] Get User Credentials
+2024-01-06 19:39:45,090 [INFO] Closing APP
+2024-01-06 19:40:21,065 [INFO] Get User Credentials
+2024-01-06 19:41:42,657 [INFO] Closing APP
+2024-01-06 19:41:45,080 [INFO] Get User Credentials
+2024-01-06 19:41:53,305 [INFO] Closing APP
+2024-01-06 19:42:27,565 [INFO] Get User Credentials
+2024-01-06 19:43:01,158 [INFO] Closing APP
+2024-01-06 19:44:04,326 [INFO] Get User Credentials
+2024-01-06 19:44:29,267 [INFO] Get User Credentials
+2024-01-06 19:44:39,007 [INFO] Get User Credentials
+2024-01-06 19:44:47,354 [INFO] Closing APP
+2024-01-06 19:45:02,243 [INFO] Get User Credentials
+2024-01-06 19:45:14,403 [INFO] Closing APP
+2024-01-06 19:46:59,568 [INFO] Get User Credentials
+2024-01-06 19:48:22,716 [INFO] Closing APP
+2024-01-06 19:48:37,926 [INFO] Get User Credentials
+2024-01-06 19:48:49,485 [INFO] Closing APP
+2024-01-06 19:48:57,892 [INFO] Get User Credentials
+2024-01-06 19:49:24,314 [INFO] Closing APP
+2024-01-06 19:49:55,706 [INFO] Get User Credentials
+2024-01-06 19:50:11,251 [INFO] Closing APP
+2024-01-06 19:50:52,173 [INFO] Get User Credentials
+2024-01-06 19:51:08,606 [INFO] Closing APP
+2024-01-06 19:53:38,667 [INFO] Get User Credentials
+2024-01-06 19:53:52,520 [INFO] Closing APP
+2024-01-06 19:54:25,286 [INFO] Get User Credentials
+2024-01-06 19:54:49,490 [INFO] Closing APP
+2024-01-06 19:54:52,393 [INFO] Get User Credentials
+2024-01-06 19:56:01,405 [INFO] Closing APP
+2024-01-06 19:56:03,196 [INFO] Get User Credentials
+2024-01-06 19:56:11,754 [INFO] Closing APP
+2024-01-06 19:56:36,146 [INFO] Get User Credentials
+2024-01-06 19:56:43,355 [INFO] Closing APP
+2024-01-06 20:03:50,053 [INFO] Get User Credentials
+2024-01-06 20:04:07,524 [INFO] Closing APP
+2024-01-08 17:56:00,477 [INFO] Get User Credentials
+2024-01-08 17:56:04,839 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-08 17:56:42,500 [INFO] Get User Credentials
+2024-01-08 17:56:45,371 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-08 18:41:32,537 [INFO] Get User Credentials
+2024-01-08 18:42:17,960 [INFO] Get User Credentials
+2024-01-08 18:42:21,329 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 18:46:03,771 [INFO] Get User Credentials
+2024-01-08 18:46:07,432 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 18:51:54,188 [INFO] Get User Credentials
+2024-01-08 18:51:59,477 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 18:52:29,199 [INFO] Closing APP
+2024-01-08 18:53:00,433 [INFO] Get User Credentials
+2024-01-08 18:53:02,393 [INFO] Closing APP
+2024-01-08 18:53:19,843 [INFO] Get User Credentials
+2024-01-08 18:53:22,492 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 18:54:04,896 [INFO] Closing APP
+2024-01-08 18:54:08,909 [INFO] Get User Credentials
+2024-01-08 18:54:11,392 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 19:03:14,069 [INFO] Get User Credentials
+2024-01-08 19:03:17,320 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 19:03:59,109 [INFO] Apply Filter Красноярск, 0/0, 
+2024-01-08 19:04:17,406 [INFO] Apply Filter Красноярск, 0/0, 
+2024-01-08 19:04:33,054 [WARNING] Connection pool is full, discarding connection: www.avito.ru. Connection pool size: 1
+2024-01-08 19:05:05,125 [INFO] Closing APP
+2024-01-08 20:56:36,685 [INFO] Get User Credentials
+2024-01-08 20:56:39,435 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 20:57:47,883 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 20:58:12,382 [INFO] Apply Filter Иркутск, 0/0, 
+2024-01-08 20:58:49,784 [INFO] Closing APP
+2024-01-08 21:02:17,146 [INFO] Get User Credentials
+2024-01-08 21:02:20,087 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 21:04:09,353 [INFO] Closing APP
+2024-01-08 21:04:13,259 [INFO] Get User Credentials
+2024-01-08 21:04:15,965 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 21:04:32,774 [INFO] Closing APP
+2024-01-08 21:04:36,915 [INFO] Get User Credentials
+2024-01-08 21:04:40,314 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 21:05:10,389 [INFO] Get User Credentials
+2024-01-08 21:05:14,814 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 21:05:29,949 [INFO] Closing APP
+2024-01-08 21:06:31,339 [INFO] Get User Credentials
+2024-01-08 21:06:34,961 [INFO] Apply Filter Абаза, 0/0, 
+2024-01-08 21:07:10,817 [INFO] Closing APP
+2024-01-08 21:07:19,142 [INFO] Get User Credentials
+2024-01-08 21:07:21,757 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-08 21:08:00,191 [INFO] Apply Filter Москва, 0/1, 
+2024-01-08 21:08:20,273 [INFO] Apply Filter Москва, 0/100000, 
+2024-01-08 21:08:41,889 [INFO] Apply Filter Москва, 0/40000, 
+2024-01-08 21:09:11,572 [INFO] Apply Filter Москва, 0/1, 
+2024-01-08 21:09:20,866 [INFO] Closing APP
+2024-01-08 23:17:54,978 [INFO] Get User Credentials
+2024-01-08 23:18:03,371 [INFO] Apply Filter Улан-Удэ, 0/Infinity, 
+2024-01-08 23:18:45,339 [INFO] Apply Filter Томск, 0/25000, 2 3
+2024-01-08 23:19:24,047 [INFO] Set Favourite https://tomsk.cian.ru/rent/flat/296950188/
+2024-01-08 23:19:29,440 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "1" 
+2024-01-08 23:19:29,506 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "12" 
+2024-01-08 23:19:29,556 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123" 
+2024-01-08 23:19:29,671 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "1231" 
+2024-01-08 23:19:29,724 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "12312" 
+2024-01-08 23:19:29,788 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123123" 
+2024-01-08 23:19:29,876 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "1231231" 
+2024-01-08 23:19:29,942 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "12312312" 
+2024-01-08 23:19:29,998 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123123123" 
+2024-01-08 23:19:32,857 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123123123ф" 
+2024-01-08 23:19:32,919 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123123123фы" 
+2024-01-08 23:19:32,989 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123123123фыв" 
+2024-01-08 23:19:33,100 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123123123фывф" 
+2024-01-08 23:19:33,180 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123123123фывфы" 
+2024-01-08 23:19:33,192 [INFO] Set Comment https://tomsk.cian.ru/rent/flat/296950188/: "123123123фывфыв" 
+2024-01-08 23:19:45,942 [INFO] Closing APP
+2024-01-09 18:53:20,203 [INFO] Get User Credentials
+2024-01-09 18:54:19,953 [INFO] Sig In test1@mail.ru
+2024-01-09 18:54:20,491 [INFO] Sign In Success!
+2024-01-09 18:54:38,716 [INFO] Set Favourite https://www.cian.ru/rent/flat/297038516/
+2024-01-09 18:54:46,869 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "d" 
+2024-01-09 18:54:46,929 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "da" 
+2024-01-09 18:54:47,007 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "das" 
+2024-01-09 18:54:47,088 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasd" 
+2024-01-09 18:54:47,183 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasda" 
+2024-01-09 18:54:47,261 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdas" 
+2024-01-09 18:54:47,292 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasd" 
+2024-01-09 18:54:47,406 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasda" 
+2024-01-09 18:54:47,458 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdas" 
+2024-01-09 18:54:47,516 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasd" 
+2024-01-09 18:54:47,662 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasda" 
+2024-01-09 18:54:47,703 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdas" 
+2024-01-09 18:54:47,736 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdasd" 
+2024-01-09 18:55:01,534 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdasd" 
+2024-01-09 18:55:13,817 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "1" 
+2024-01-09 18:55:13,881 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "12" 
+2024-01-09 18:55:13,933 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123" 
+2024-01-09 18:55:14,928 [INFO] Set Comment https://www.cian.ru/rent/flat/297038432/: "f" 
+2024-01-09 18:55:15,116 [INFO] Set Comment https://www.cian.ru/rent/flat/297038432/: "ff" 
+2024-01-09 18:55:15,207 [INFO] Set Comment https://www.cian.ru/rent/flat/297038432/: "ffa" 
+2024-01-09 18:55:15,290 [INFO] Set Comment https://www.cian.ru/rent/flat/297038432/: "ffas" 
+2024-01-09 18:55:15,317 [INFO] Set Comment https://www.cian.ru/rent/flat/297038432/: "ffasd" 
+2024-01-09 18:55:16,321 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "f" 
+2024-01-09 18:55:16,509 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fg" 
+2024-01-09 18:55:16,679 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgg" 
+2024-01-09 18:55:16,819 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fggg" 
+2024-01-09 18:55:16,987 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgggd" 
+2024-01-09 18:55:17,123 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgggdd" 
+2024-01-09 18:55:17,314 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgggdda" 
+2024-01-09 18:55:17,389 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgggddas" 
+2024-01-09 18:55:17,436 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgggddasd" 
+2024-01-09 18:55:18,425 [INFO] Set Comment https://www.cian.ru/rent/flat/297038405/: "4" 
+2024-01-09 18:55:18,646 [INFO] Set Comment https://www.cian.ru/rent/flat/297038405/: "44" 
+2024-01-09 18:55:18,784 [INFO] Set Comment https://www.cian.ru/rent/flat/297038405/: "441" 
+2024-01-09 18:55:18,874 [INFO] Set Comment https://www.cian.ru/rent/flat/297038405/: "4413" 
+2024-01-09 18:55:19,118 [INFO] Set Favourite https://www.cian.ru/rent/flat/297038405/
+2024-01-09 18:55:20,106 [INFO] Set Comment https://www.cian.ru/rent/flat/297038346/: "f" 
+2024-01-09 18:55:20,200 [INFO] Set Comment https://www.cian.ru/rent/flat/297038346/: "fa" 
+2024-01-09 18:55:20,282 [INFO] Set Comment https://www.cian.ru/rent/flat/297038346/: "fas" 
+2024-01-09 18:55:20,339 [INFO] Set Comment https://www.cian.ru/rent/flat/297038346/: "fasd" 
+2024-01-09 18:55:20,347 [INFO] Set Comment https://www.cian.ru/rent/flat/297038346/: "fasdf" 
+2024-01-09 18:55:21,683 [INFO] Set Comment https://www.cian.ru/rent/flat/297038267/: "g" 
+2024-01-09 18:55:22,528 [INFO] Set Comment https://www.cian.ru/rent/flat/297038267/: "gq" 
+2024-01-09 18:55:22,657 [INFO] Set Comment https://www.cian.ru/rent/flat/297038267/: "gqw" 
+2024-01-09 18:55:22,717 [INFO] Set Comment https://www.cian.ru/rent/flat/297038267/: "gqwe" 
+2024-01-09 18:55:23,000 [INFO] Set Favourite https://www.cian.ru/rent/flat/297038267/
+2024-01-09 18:55:24,143 [INFO] Set Comment https://www.cian.ru/rent/flat/297038264/: "1" 
+2024-01-09 18:55:24,200 [INFO] Set Comment https://www.cian.ru/rent/flat/297038264/: "12" 
+2024-01-09 18:55:24,292 [INFO] Set Comment https://www.cian.ru/rent/flat/297038264/: "123" 
+2024-01-09 18:55:24,421 [INFO] Set Comment https://www.cian.ru/rent/flat/297038264/: "1234" 
+2024-01-09 18:55:25,788 [INFO] Set Favourite https://www.cian.ru/rent/flat/297038264/
+2024-01-09 18:56:05,287 [INFO] Set Comment https://www.cian.ru/rent/flat/297037680/: "a" 
+2024-01-09 18:56:05,372 [INFO] Set Comment https://www.cian.ru/rent/flat/297037680/: "as" 
+2024-01-09 18:56:05,403 [INFO] Set Comment https://www.cian.ru/rent/flat/297037680/: "asd" 
+2024-01-09 18:56:05,536 [INFO] Set Comment https://www.cian.ru/rent/flat/297037680/: "asda" 
+2024-01-09 18:56:05,583 [INFO] Set Comment https://www.cian.ru/rent/flat/297037680/: "asdas" 
+2024-01-09 18:56:05,654 [INFO] Set Comment https://www.cian.ru/rent/flat/297037680/: "asdasd" 
+2024-01-09 18:56:09,569 [INFO] Set Comment https://www.cian.ru/rent/flat/297037705/: "1" 
+2024-01-09 18:56:09,631 [INFO] Set Comment https://www.cian.ru/rent/flat/297037705/: "12" 
+2024-01-09 18:56:09,673 [INFO] Set Comment https://www.cian.ru/rent/flat/297037705/: "123" 
+2024-01-09 18:56:09,765 [INFO] Set Comment https://www.cian.ru/rent/flat/297037705/: "1231" 
+2024-01-09 18:56:09,789 [INFO] Set Comment https://www.cian.ru/rent/flat/297037705/: "12312" 
+2024-01-09 18:56:09,846 [INFO] Set Comment https://www.cian.ru/rent/flat/297037705/: "123123" 
+2024-01-09 18:56:11,549 [INFO] Set Comment https://www.cian.ru/rent/flat/297037657/: "f" 
+2024-01-09 18:56:11,664 [INFO] Set Comment https://www.cian.ru/rent/flat/297037657/: "fa" 
+2024-01-09 18:56:11,732 [INFO] Set Comment https://www.cian.ru/rent/flat/297037657/: "fas" 
+2024-01-09 18:56:11,764 [INFO] Set Comment https://www.cian.ru/rent/flat/297037657/: "fasd" 
+2024-01-09 18:56:11,882 [INFO] Set Comment https://www.cian.ru/rent/flat/297037657/: "fasda" 
+2024-01-09 18:56:11,916 [INFO] Set Comment https://www.cian.ru/rent/flat/297037657/: "fasdas" 
+2024-01-09 18:56:11,969 [INFO] Set Comment https://www.cian.ru/rent/flat/297037657/: "fasdasd" 
+2024-01-09 18:56:13,062 [INFO] Set Comment https://www.cian.ru/rent/flat/297037569/: "4" 
+2024-01-09 18:56:13,259 [INFO] Set Comment https://www.cian.ru/rent/flat/297037569/: "44" 
+2024-01-09 18:56:13,679 [INFO] Set Comment https://www.cian.ru/rent/flat/297037569/: "442" 
+2024-01-09 18:56:13,839 [INFO] Set Comment https://www.cian.ru/rent/flat/297037569/: "4423" 
+2024-01-09 18:56:14,942 [INFO] Set Comment https://www.cian.ru/rent/flat/297037523/: "a" 
+2024-01-09 18:56:15,003 [INFO] Set Comment https://www.cian.ru/rent/flat/297037523/: "as" 
+2024-01-09 18:56:15,085 [INFO] Set Comment https://www.cian.ru/rent/flat/297037523/: "asd" 
+2024-01-09 18:56:15,187 [INFO] Set Comment https://www.cian.ru/rent/flat/297037523/: "asda" 
+2024-01-09 18:56:15,264 [INFO] Set Comment https://www.cian.ru/rent/flat/297037523/: "asdas" 
+2024-01-09 18:56:15,300 [INFO] Set Comment https://www.cian.ru/rent/flat/297037523/: "asdasf" 
+2024-01-09 18:56:15,502 [INFO] Set Comment https://www.cian.ru/rent/flat/297037523/: "asdasfg" 
+2024-01-09 18:56:16,558 [INFO] Set Comment https://www.cian.ru/rent/flat/297037512/: "f" 
+2024-01-09 18:56:16,678 [INFO] Set Comment https://www.cian.ru/rent/flat/297037512/: "fa" 
+2024-01-09 18:56:16,752 [INFO] Set Comment https://www.cian.ru/rent/flat/297037512/: "fas" 
+2024-01-09 18:56:16,805 [INFO] Set Comment https://www.cian.ru/rent/flat/297037512/: "fasd" 
+2024-01-09 18:56:16,913 [INFO] Set Comment https://www.cian.ru/rent/flat/297037512/: "fasda" 
+2024-01-09 18:56:16,955 [INFO] Set Comment https://www.cian.ru/rent/flat/297037512/: "fasdas" 
+2024-01-09 18:56:16,999 [INFO] Set Comment https://www.cian.ru/rent/flat/297037512/: "fasdasd" 
+2024-01-09 18:56:17,936 [INFO] Set Comment https://www.cian.ru/rent/flat/297037489/: "a" 
+2024-01-09 18:56:17,980 [INFO] Set Comment https://www.cian.ru/rent/flat/297037489/: "as" 
+2024-01-09 18:56:17,998 [INFO] Set Comment https://www.cian.ru/rent/flat/297037489/: "asd" 
+2024-01-09 18:56:18,127 [INFO] Set Comment https://www.cian.ru/rent/flat/297037489/: "asda" 
+2024-01-09 18:56:18,191 [INFO] Set Comment https://www.cian.ru/rent/flat/297037489/: "asdas" 
+2024-01-09 18:56:18,205 [INFO] Set Comment https://www.cian.ru/rent/flat/297037489/: "asdasd" 
+2024-01-09 18:56:18,613 [INFO] Set Comment https://www.cian.ru/rent/flat/297037444/: "a" 
+2024-01-09 18:56:18,662 [INFO] Set Comment https://www.cian.ru/rent/flat/297037444/: "as" 
+2024-01-09 18:56:18,701 [INFO] Set Comment https://www.cian.ru/rent/flat/297037444/: "asd" 
+2024-01-09 18:56:19,388 [INFO] Set Comment https://www.cian.ru/rent/flat/297037444/: "asda" 
+2024-01-09 18:56:19,451 [INFO] Set Comment https://www.cian.ru/rent/flat/297037444/: "asdas" 
+2024-01-09 18:56:19,481 [INFO] Set Comment https://www.cian.ru/rent/flat/297037444/: "asdasd" 
+2024-01-09 18:56:19,845 [INFO] Set Comment https://www.cian.ru/rent/flat/297037416/: "a" 
+2024-01-09 18:56:19,894 [INFO] Set Comment https://www.cian.ru/rent/flat/297037416/: "as" 
+2024-01-09 18:56:19,933 [INFO] Set Comment https://www.cian.ru/rent/flat/297037416/: "asd" 
+2024-01-09 18:56:20,073 [INFO] Set Comment https://www.cian.ru/rent/flat/297037416/: "asda" 
+2024-01-09 18:56:20,102 [INFO] Set Comment https://www.cian.ru/rent/flat/297037416/: "asdas" 
+2024-01-09 18:56:20,165 [INFO] Set Comment https://www.cian.ru/rent/flat/297037416/: "asdasd" 
+2024-01-09 18:56:21,217 [INFO] Set Comment https://www.cian.ru/rent/flat/297037400/: "a" 
+2024-01-09 18:56:21,256 [INFO] Set Comment https://www.cian.ru/rent/flat/297037400/: "as" 
+2024-01-09 18:56:21,282 [INFO] Set Comment https://www.cian.ru/rent/flat/297037400/: "asd" 
+2024-01-09 18:56:21,419 [INFO] Set Comment https://www.cian.ru/rent/flat/297037400/: "asda" 
+2024-01-09 18:56:21,471 [INFO] Set Comment https://www.cian.ru/rent/flat/297037400/: "asdas" 
+2024-01-09 18:56:21,513 [INFO] Set Comment https://www.cian.ru/rent/flat/297037400/: "asdasd" 
+2024-01-09 18:56:22,491 [INFO] Set Comment https://www.cian.ru/rent/flat/297037394/: "a" 
+2024-01-09 18:56:22,516 [INFO] Set Comment https://www.cian.ru/rent/flat/297037394/: "as" 
+2024-01-09 18:56:22,549 [INFO] Set Comment https://www.cian.ru/rent/flat/297037394/: "asd" 
+2024-01-09 18:56:22,695 [INFO] Set Comment https://www.cian.ru/rent/flat/297037394/: "asda" 
+2024-01-09 18:56:22,750 [INFO] Set Comment https://www.cian.ru/rent/flat/297037394/: "asdas" 
+2024-01-09 18:56:22,785 [INFO] Set Comment https://www.cian.ru/rent/flat/297037394/: "asdasd" 
+2024-01-09 18:56:23,312 [INFO] Set Comment https://www.cian.ru/rent/flat/297037383/: "f" 
+2024-01-09 18:56:23,470 [INFO] Set Comment https://www.cian.ru/rent/flat/297037383/: "ff" 
+2024-01-09 18:56:23,579 [INFO] Set Comment https://www.cian.ru/rent/flat/297037383/: "ffa" 
+2024-01-09 18:56:23,656 [INFO] Set Comment https://www.cian.ru/rent/flat/297037383/: "ffas" 
+2024-01-09 18:56:23,699 [INFO] Set Comment https://www.cian.ru/rent/flat/297037383/: "ffasd" 
+2024-01-09 18:56:24,645 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "a" 
+2024-01-09 18:56:24,679 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "as" 
+2024-01-09 18:56:24,728 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "asd" 
+2024-01-09 18:56:24,855 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "asda" 
+2024-01-09 18:56:24,901 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "asdas" 
+2024-01-09 18:56:24,930 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "asdasd" 
+2024-01-09 18:56:25,071 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "asdasda" 
+2024-01-09 18:56:25,106 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "asdasdas" 
+2024-01-09 18:56:25,160 [INFO] Set Comment https://www.cian.ru/rent/flat/297037313/: "asdasdasd" 
+2024-01-09 18:56:43,886 [INFO] Set Comment /novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957/novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957: "a" 
+2024-01-09 18:56:43,965 [INFO] Set Comment /novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957/novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957: "as" 
+2024-01-09 18:56:44,031 [INFO] Set Comment /novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957/novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957: "asd" 
+2024-01-09 18:56:44,153 [INFO] Set Comment /novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957/novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957: "asda" 
+2024-01-09 18:56:44,213 [INFO] Set Comment /novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957/novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957: "asdas" 
+2024-01-09 18:56:44,269 [INFO] Set Comment /novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957/novosibirsk/kvartiry/2-k._kvartira_45_m_69_et._3243359957: "asdasd" 
+2024-01-09 18:56:45,220 [INFO] Set Comment /novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289/novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289: "a" 
+2024-01-09 18:56:45,280 [INFO] Set Comment /novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289/novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289: "as" 
+2024-01-09 18:56:45,324 [INFO] Set Comment /novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289/novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289: "asd" 
+2024-01-09 18:56:45,432 [INFO] Set Comment /novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289/novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289: "asda" 
+2024-01-09 18:56:45,491 [INFO] Set Comment /novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289/novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289: "asdas" 
+2024-01-09 18:56:45,523 [INFO] Set Comment /novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289/novosibirsk/kvartiry/kvartira-studiya_30_m_625_et._2283184289: "asdasd" 
+2024-01-09 18:56:46,263 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "a" 
+2024-01-09 18:56:46,312 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "as" 
+2024-01-09 18:56:46,383 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "asd" 
+2024-01-09 18:56:46,394 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "asdf" 
+2024-01-09 18:56:46,500 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "asdfa" 
+2024-01-09 18:56:46,563 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "asdfas" 
+2024-01-09 18:56:46,587 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "asdfasd" 
+2024-01-09 18:56:46,663 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "asdfasda" 
+2024-01-09 18:56:46,714 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "asdfasdas" 
+2024-01-09 18:56:46,762 [INFO] Set Comment /novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730/novosibirsk/kvartiry/1-k._kvartira_392_m_1624_et._3565015730: "asdfasdasd" 
+2024-01-09 18:57:11,356 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "a" 
+2024-01-09 18:57:11,419 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "as" 
+2024-01-09 18:57:11,457 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asd" 
+2024-01-09 18:57:11,565 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asda" 
+2024-01-09 18:57:11,612 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdas" 
+2024-01-09 18:57:11,645 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdasd" 
+2024-01-09 18:57:12,462 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "a" 
+2024-01-09 18:57:12,506 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "as" 
+2024-01-09 18:57:12,573 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "asd" 
+2024-01-09 18:57:12,699 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "asda" 
+2024-01-09 18:57:12,730 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "asdas" 
+2024-01-09 18:57:12,738 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "asdasd" 
+2024-01-09 18:57:13,989 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "a" 
+2024-01-09 18:57:14,030 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "as" 
+2024-01-09 18:57:14,066 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "asd" 
+2024-01-09 18:57:14,175 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "asda" 
+2024-01-09 18:57:14,221 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "asdas" 
+2024-01-09 18:57:14,270 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "asdasd" 
+2024-01-09 18:57:15,696 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdasda" 
+2024-01-09 18:57:15,775 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdasdas" 
+2024-01-09 18:57:15,816 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdasdasd" 
+2024-01-09 18:57:16,865 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123a" 
+2024-01-09 18:57:16,899 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123as" 
+2024-01-09 18:57:16,919 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123asd" 
+2024-01-09 18:57:17,058 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123asda" 
+2024-01-09 18:57:17,105 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123asdas" 
+2024-01-09 18:57:17,137 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123asdasd" 
+2024-01-09 18:57:26,039 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdasd1" 
+2024-01-09 18:57:32,772 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdasd1s" 
+2024-01-09 18:57:32,789 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdasd1sd" 
+2024-01-09 18:57:32,903 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdasd1sda" 
+2024-01-09 18:57:33,003 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdasd1sdad" 
+2024-01-09 18:57:33,017 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdasd1sdads" 
+2024-01-09 18:57:33,149 [INFO] Set Comment https://www.cian.ru/rent/flat/297038577/: "asdasd1sdadsa" 
+2024-01-09 18:57:33,785 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "asdasda" 
+2024-01-09 18:57:33,827 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "asdasdas" 
+2024-01-09 18:57:33,844 [INFO] Set Comment https://www.cian.ru/rent/flat/297038574/: "asdasdasd" 
+2024-01-09 18:57:34,762 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "asdasda" 
+2024-01-09 18:57:34,808 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "asdasdas" 
+2024-01-09 18:57:34,835 [INFO] Set Comment https://www.cian.ru/rent/flat/297038537/: "asdasdasd" 
+2024-01-09 18:57:35,678 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdasdasda" 
+2024-01-09 18:57:35,761 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdasdasdas" 
+2024-01-09 18:57:35,778 [INFO] Set Comment https://www.cian.ru/rent/flat/297038516/: "dasdasdasdasdasdasd" 
+2024-01-09 18:57:36,696 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123asdasda" 
+2024-01-09 18:57:36,710 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123asdasdas" 
+2024-01-09 18:57:36,745 [INFO] Set Comment https://www.cian.ru/rent/flat/297038362/: "123asdasdasd" 
+2024-01-09 18:57:37,857 [INFO] Set Comment https://www.cian.ru/rent/flat/297038432/: "ffasda" 
+2024-01-09 18:57:37,895 [INFO] Set Comment https://www.cian.ru/rent/flat/297038432/: "ffasdas" 
+2024-01-09 18:57:37,932 [INFO] Set Comment https://www.cian.ru/rent/flat/297038432/: "ffasdasd" 
+2024-01-09 18:57:40,024 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgggddasda" 
+2024-01-09 18:57:40,088 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgggddasdas" 
+2024-01-09 18:57:40,127 [INFO] Set Comment https://www.cian.ru/rent/flat/297038423/: "fgggddasdasd" 
+2024-01-09 18:57:41,262 [INFO] Set Comment https://www.cian.ru/rent/flat/297038405/: "4413a" 
+2024-01-09 18:57:41,304 [INFO] Set Comment https://www.cian.ru/rent/flat/297038405/: "4413as" 
+2024-01-09 18:57:41,361 [INFO] Set Comment https://www.cian.ru/rent/flat/297038405/: "4413asd" 
+2024-01-09 18:59:31,148 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='rent-helper-13b14-default-rtdb.firebaseio.com', port=443): Read timed out. (read timeout=None)")': /cards/nNQWrxbPweQQi7csTUlSsKCYa013/https:%7C%7Cwww;cian;ru%7Crent%7Cflat%7C297038423%7C.json?auth=eyJhbGciOiJSUzI1NiIsImtpZCI6ImQxNjg5NDE1ZWMyM2EzMzdlMmJiYWE1ZTNlNjhiNjZkYzk5MzY4ODQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVudC1oZWxwZXItMTNiMTQiLCJhdWQiOiJyZW50LWhlbHBlci0xM2IxNCIsImF1dGhfdGltZSI6MTcwNDgwMTI2MCwidXNlcl9pZCI6Im5OUVdyeGJQd2VRUWk3Y3NUVWxTc0tDWWEwMTMiLCJzdWIiOiJuTlFXcnhiUHdlUVFpN2NzVFVsU3NLQ1lhMDEzIiwiaWF0IjoxNzA0ODAxMjYwLCJleHAiOjE3MDQ4MDQ4NjAsImVtYWlsIjoidGVzdDFAbWFpbC5ydSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJ0ZXN0MUBtYWlsLnJ1Il19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.F9d1XavsOoUo5nFcCqX-kCnrZ_GJtILzaiTzxCSKup63SteBOVaRdZOqw_vsdzaNWU5Bd7I3nQCOAjmanls5OfrgvyC2Ei2Mhjb3AFh0QGgV8nnwVQ4x2lkFNgLYswUGFzDFbl6rdmBcauxO6mXaFlsQPJsg7S-hgegIA5TzM7b3QoEYrmoj4AS7sAzXdButatSaLIpdjPWba9xeFt16cU_1bp-tNeETIPrt3401kUjvUmQTvW8nJPnLgirrV9EWzEI7SreFM8Ib2C90KR2DjRf1VTOWdnBiajQf5ZpLZkYZ5xDMzobXH8ceKQBKyh1cxL4N7h_akp3W-ZDoFMnNXA
+2024-01-09 18:59:45,859 [INFO] Closing APP
+2024-01-09 18:59:50,258 [INFO] Get User Credentials
+2024-01-09 18:59:50,258 [INFO] Sign In test1@mail.ru
+2024-01-09 18:59:50,713 [INFO] Sign In Success
+2024-01-09 18:59:50,714 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:16:08,838 [INFO] Closing APP
+2024-01-09 19:17:12,374 [INFO] Get User Credentials
+2024-01-09 19:17:12,374 [INFO] Sign In test1@mail.ru
+2024-01-09 19:17:13,213 [INFO] Sign In Success
+2024-01-09 19:17:13,215 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:21:06,458 [INFO] Get User Credentials
+2024-01-09 19:21:06,459 [INFO] Sign In test1@mail.ru
+2024-01-09 19:21:06,915 [INFO] Sign In Success
+2024-01-09 19:21:06,917 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:21:15,583 [INFO] Closing APP
+2024-01-09 19:23:28,699 [INFO] Get User Credentials
+2024-01-09 19:23:28,699 [INFO] Sign In test1@mail.ru
+2024-01-09 19:23:29,160 [INFO] Sign In Success
+2024-01-09 19:23:29,162 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:23:46,598 [INFO] Closing APP
+2024-01-09 19:24:39,763 [INFO] Get User Credentials
+2024-01-09 19:24:39,763 [INFO] Sign In test1@mail.ru
+2024-01-09 19:24:40,196 [INFO] Sign In Success
+2024-01-09 19:24:40,198 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:24:51,334 [INFO] Closing APP
+2024-01-09 19:25:16,435 [INFO] Get User Credentials
+2024-01-09 19:25:16,435 [INFO] Sign In test1@mail.ru
+2024-01-09 19:25:16,827 [INFO] Sign In Success
+2024-01-09 19:25:16,828 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:25:29,326 [INFO] Closing APP
+2024-01-09 19:29:39,712 [INFO] Get User Credentials
+2024-01-09 19:29:39,713 [INFO] Sign In test1@mail.ru
+2024-01-09 19:29:40,176 [INFO] Sign In Success
+2024-01-09 19:29:40,179 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:29:47,790 [INFO] Closing APP
+2024-01-09 19:29:53,884 [INFO] Get User Credentials
+2024-01-09 19:29:53,885 [INFO] Sign In test1@mail.ru
+2024-01-09 19:29:54,424 [INFO] Sign In Success
+2024-01-09 19:29:54,426 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:31:29,621 [INFO] Get User Credentials
+2024-01-09 19:31:29,621 [INFO] Sign In test1@mail.ru
+2024-01-09 19:31:30,073 [INFO] Sign In Success
+2024-01-09 19:31:30,075 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:31:33,494 [INFO] Closing APP
+2024-01-09 19:31:52,712 [INFO] Get User Credentials
+2024-01-09 19:31:52,713 [INFO] Sign In test1@mail.ru
+2024-01-09 19:31:53,111 [INFO] Sign In Success
+2024-01-09 19:31:53,114 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:32:02,388 [INFO] Closing APP
+2024-01-09 19:32:35,324 [INFO] Get User Credentials
+2024-01-09 19:32:35,324 [INFO] Sign In test1@mail.ru
+2024-01-09 19:32:35,731 [INFO] Sign In Success
+2024-01-09 19:32:35,733 [INFO] Get Favourites From Cloud Data
+2024-01-09 19:32:55,117 [INFO] Closing APP
+2024-01-09 20:17:36,741 [INFO] Get User Credentials
+2024-01-09 20:17:36,742 [INFO] Sign In test1@mail.ru
+2024-01-09 20:17:37,203 [INFO] Sign In Success
+2024-01-09 20:17:37,204 [INFO] Get Favourites From Cloud Data
+2024-01-09 20:17:53,880 [INFO] Get User Credentials
+2024-01-09 20:17:53,880 [INFO] Sign In test1@mail.ru
+2024-01-09 20:17:54,337 [INFO] Sign In Success
+2024-01-09 20:17:54,339 [INFO] Get Favourites From Cloud Data
+2024-01-09 20:18:23,981 [INFO] Closing APP
+2024-01-09 20:20:20,939 [INFO] Get User Credentials
+2024-01-09 20:20:20,939 [INFO] Sign In test1@mail.ru
+2024-01-09 20:20:21,431 [INFO] Sign In Success
+2024-01-09 20:20:21,433 [INFO] Get Favourites From Cloud Data
+2024-01-09 20:23:14,814 [INFO] Closing APP
+2024-01-09 20:52:27,403 [INFO] Get User Credentials
+2024-01-09 20:52:27,404 [INFO] Sign In test1@mail.ru
+2024-01-09 20:52:27,866 [INFO] Sign In Success
+2024-01-09 20:52:27,867 [INFO] Get Favourites From Cloud Data
+2024-01-09 20:52:36,281 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 21:44:08,523 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x129687310>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8acd45b9694d68f27e9d15371e8ab45c
+2024-01-09 21:44:08,524 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x129687460>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8acd45b9694d68f27e9d15371e8ab45c
+2024-01-09 21:44:08,525 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1296875b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8acd45b9694d68f27e9d15371e8ab45c
+2024-01-09 22:20:29,373 [INFO] Closing APP
+2024-01-09 22:20:47,291 [INFO] Get User Credentials
+2024-01-09 22:20:47,291 [INFO] Sign In test1@mail.ru
+2024-01-09 22:20:47,768 [INFO] Sign In Success
+2024-01-09 22:20:47,770 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:20:52,919 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:20:54,979 [INFO] Closing APP
+2024-01-09 22:22:09,320 [INFO] Get User Credentials
+2024-01-09 22:22:09,321 [INFO] Sign In test1@mail.ru
+2024-01-09 22:22:10,350 [INFO] Sign In Success
+2024-01-09 22:22:10,353 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:22:15,928 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:23:06,824 [INFO] Get User Credentials
+2024-01-09 22:23:06,824 [INFO] Sign In test1@mail.ru
+2024-01-09 22:23:07,261 [INFO] Sign In Success
+2024-01-09 22:23:07,263 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:23:11,287 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:23:19,418 [INFO] Closing APP
+2024-01-09 22:23:19,461 [WARNING] Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-01-09 22:23:51,633 [INFO] Get User Credentials
+2024-01-09 22:23:51,634 [INFO] Sign In test1@mail.ru
+2024-01-09 22:23:52,078 [INFO] Sign In Success
+2024-01-09 22:23:52,079 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:23:55,994 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:23:59,399 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:24:05,067 [INFO] Apply Filter Абаза, 124124/124124124, 
+2024-01-09 22:24:18,584 [INFO] Apply Filter Мосальск, 124124/124124124, 
+2024-01-09 22:24:22,483 [INFO] Apply Filter Мосальск, 124124/124124124, 2 3 Свободная
+2024-01-09 22:24:44,998 [INFO] Closing APP
+2024-01-09 22:35:40,108 [INFO] Get User Credentials
+2024-01-09 22:35:40,108 [INFO] Sign In test1@mail.ru
+2024-01-09 22:35:40,724 [INFO] Sign In Success
+2024-01-09 22:35:40,726 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:35:44,978 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:36:02,252 [INFO] Apply Filter Мосальск, 123123/Infinity, 
+2024-01-09 22:36:06,061 [INFO] Closing APP
+2024-01-09 22:36:25,037 [INFO] Get User Credentials
+2024-01-09 22:36:25,038 [INFO] Sign In test1@mail.ru
+2024-01-09 22:36:25,544 [INFO] Sign In Success
+2024-01-09 22:36:25,545 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:36:29,811 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:37:24,644 [INFO] Get User Credentials
+2024-01-09 22:37:24,644 [INFO] Sign In test1@mail.ru
+2024-01-09 22:37:25,067 [INFO] Sign In Success
+2024-01-09 22:37:25,068 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:37:31,552 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:37:56,795 [INFO] Get User Credentials
+2024-01-09 22:37:56,795 [INFO] Sign In test1@mail.ru
+2024-01-09 22:37:57,283 [INFO] Sign In Success
+2024-01-09 22:37:57,284 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:38:01,045 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:38:30,721 [INFO] Get User Credentials
+2024-01-09 22:38:30,721 [INFO] Sign In test1@mail.ru
+2024-01-09 22:38:31,136 [INFO] Sign In Success
+2024-01-09 22:38:31,137 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:38:34,682 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:39:01,101 [INFO] Get User Credentials
+2024-01-09 22:39:01,101 [INFO] Sign In test1@mail.ru
+2024-01-09 22:39:01,604 [INFO] Sign In Success
+2024-01-09 22:39:01,605 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:39:05,638 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-09 22:39:45,218 [INFO] Apply Filter Москва, 123123/12312, 2 Свободная
+2024-01-09 22:40:28,932 [INFO] Closing APP
+2024-01-09 22:41:20,606 [INFO] Get User Credentials
+2024-01-09 22:41:20,606 [INFO] Sign In test1@mail.ru
+2024-01-09 22:41:21,086 [INFO] Sign In Success
+2024-01-09 22:41:21,088 [INFO] Get Favourites From Cloud Data
+2024-01-09 22:41:26,669 [INFO] Apply Filter Абаза, 0/Infinity, 2 3 Свободная
+2024-01-09 22:41:38,835 [INFO] Closing APP
+2024-01-10 12:15:35,064 [INFO] Get User Credentials
+2024-01-10 12:15:35,065 [INFO] Sign In test1@mail.ru
+2024-01-10 12:15:35,583 [INFO] Sign In Success
+2024-01-10 12:15:35,585 [INFO] Get Favourites From Cloud Data
+2024-01-10 12:15:42,236 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-10 12:15:46,154 [INFO] Apply Filter Абаза, 0/Infinity, 2
+2024-01-10 12:15:59,974 [INFO] Closing APP
+2024-01-10 12:16:25,187 [INFO] Get User Credentials
+2024-01-10 12:16:25,187 [INFO] Sign In test1@mail.ru
+2024-01-10 12:16:25,656 [INFO] Sign In Success
+2024-01-10 12:16:25,659 [INFO] Get Favourites From Cloud Data
+2024-01-10 12:16:45,036 [INFO] Apply Filter Абаза, 0/Infinity, Свободная
+2024-01-10 12:17:02,551 [INFO] Closing APP
+2024-01-10 15:58:13,443 [INFO] Get User Credentials
+2024-01-10 15:58:13,443 [INFO] Sign In test1@mail.ru
+2024-01-10 15:58:13,979 [INFO] Sign In Success
+2024-01-10 15:58:13,980 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:01:46,843 [INFO] Get User Credentials
+2024-01-10 16:01:46,843 [INFO] Sign In test1@mail.ru
+2024-01-10 16:01:47,914 [INFO] Sign In Success
+2024-01-10 16:01:47,915 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:01:51,850 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-10 16:02:06,621 [INFO] Apply Filter Абаза, 0/Infinity, 3 Свободная
+2024-01-10 16:02:50,052 [INFO] Closing APP
+2024-01-10 16:03:28,360 [INFO] Get User Credentials
+2024-01-10 16:03:28,360 [INFO] Sign In test1@mail.ru
+2024-01-10 16:03:28,829 [INFO] Sign In Success
+2024-01-10 16:03:28,831 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:05:09,984 [INFO] Get User Credentials
+2024-01-10 16:05:09,984 [INFO] Sign In test1@mail.ru
+2024-01-10 16:05:10,481 [INFO] Sign In Success
+2024-01-10 16:05:10,482 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:05:27,650 [INFO] Apply Filter Абаза, 0/Infinity, Свободная
+2024-01-10 16:05:31,318 [INFO] Closing APP
+2024-01-10 16:05:36,536 [INFO] Get User Credentials
+2024-01-10 16:05:36,537 [INFO] Sign In test1@mail.ru
+2024-01-10 16:05:36,918 [INFO] Sign In Success
+2024-01-10 16:05:36,919 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:05:47,701 [INFO] Apply Filter Абаза, 0/Infinity, Свободная
+2024-01-10 16:05:52,534 [INFO] Closing APP
+2024-01-10 16:11:44,554 [INFO] Get User Credentials
+2024-01-10 16:11:44,554 [INFO] Sign In test1@mail.ru
+2024-01-10 16:11:44,958 [INFO] Sign In Success
+2024-01-10 16:11:44,959 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:12:16,759 [INFO] Apply Filter Абаза, 0/Infinity, 1 Студия
+2024-01-10 16:51:47,166 [INFO] Closing APP
+2024-01-10 16:57:32,118 [INFO] Get User Credentials
+2024-01-10 16:57:32,118 [INFO] Sign In test1@mail.ru
+2024-01-10 16:57:32,511 [INFO] Sign In Success
+2024-01-10 16:57:32,512 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:57:37,008 [INFO] Apply Filter Абаза, 0/Infinity, 2
+2024-01-10 16:57:45,594 [INFO] Closing APP
+2024-01-10 16:59:00,611 [INFO] Get User Credentials
+2024-01-10 16:59:00,612 [INFO] Sign In test1@mail.ru
+2024-01-10 16:59:01,059 [INFO] Sign In Success
+2024-01-10 16:59:01,061 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:59:05,388 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 16:59:12,713 [INFO] Closing APP
+2024-01-10 16:59:26,118 [INFO] Get User Credentials
+2024-01-10 16:59:26,119 [INFO] Sign In test1@mail.ru
+2024-01-10 16:59:26,557 [INFO] Sign In Success
+2024-01-10 16:59:26,558 [INFO] Get Favourites From Cloud Data
+2024-01-10 16:59:32,998 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:00:29,828 [INFO] Get User Credentials
+2024-01-10 17:00:29,828 [INFO] Sign In test1@mail.ru
+2024-01-10 17:00:30,357 [INFO] Sign In Success
+2024-01-10 17:00:30,358 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:00:34,773 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:00:45,044 [INFO] Closing APP
+2024-01-10 17:02:30,336 [INFO] Get User Credentials
+2024-01-10 17:02:30,336 [INFO] Sign In test1@mail.ru
+2024-01-10 17:02:30,766 [INFO] Sign In Success
+2024-01-10 17:02:30,768 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:02:36,947 [INFO] Apply Filter Абаза, 0/Infinity, 2
+2024-01-10 17:02:57,133 [INFO] Get User Credentials
+2024-01-10 17:02:57,133 [INFO] Sign In test1@mail.ru
+2024-01-10 17:02:57,575 [INFO] Sign In Success
+2024-01-10 17:02:57,576 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:03:03,213 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:03:11,011 [INFO] Closing APP
+2024-01-10 17:12:31,160 [INFO] Get User Credentials
+2024-01-10 17:12:31,160 [INFO] Sign In test1@mail.ru
+2024-01-10 17:12:31,570 [INFO] Sign In Success
+2024-01-10 17:12:31,572 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:12:38,694 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:12:47,448 [INFO] Closing APP
+2024-01-10 17:39:04,742 [INFO] Get User Credentials
+2024-01-10 17:39:04,743 [INFO] Sign In test1@mail.ru
+2024-01-10 17:39:05,248 [INFO] Sign In Success
+2024-01-10 17:39:05,249 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:39:13,700 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:39:39,535 [INFO] Get User Credentials
+2024-01-10 17:39:39,535 [INFO] Sign In test1@mail.ru
+2024-01-10 17:39:39,958 [INFO] Sign In Success
+2024-01-10 17:39:39,959 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:39:47,849 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:40:13,900 [INFO] Get User Credentials
+2024-01-10 17:40:13,900 [INFO] Sign In test1@mail.ru
+2024-01-10 17:40:14,391 [INFO] Sign In Success
+2024-01-10 17:40:14,392 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:40:20,333 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:52:00,705 [INFO] Get User Credentials
+2024-01-10 17:52:00,705 [INFO] Sign In test1@mail.ru
+2024-01-10 17:52:01,142 [INFO] Sign In Success
+2024-01-10 17:52:01,144 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:52:06,400 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:53:29,516 [INFO] Get User Credentials
+2024-01-10 17:53:29,516 [INFO] Sign In test1@mail.ru
+2024-01-10 17:53:29,915 [INFO] Sign In Success
+2024-01-10 17:53:29,917 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:53:34,277 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:54:46,054 [INFO] Closing APP
+2024-01-10 17:54:48,376 [INFO] Get User Credentials
+2024-01-10 17:54:48,377 [INFO] Sign In test1@mail.ru
+2024-01-10 17:54:48,808 [INFO] Sign In Success
+2024-01-10 17:54:48,811 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:54:53,290 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:55:04,579 [INFO] Closing APP
+2024-01-10 17:55:06,850 [INFO] Get User Credentials
+2024-01-10 17:55:06,851 [INFO] Sign In test1@mail.ru
+2024-01-10 17:55:07,232 [INFO] Sign In Success
+2024-01-10 17:55:07,235 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:55:25,564 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:56:28,582 [INFO] Closing APP
+2024-01-10 17:56:30,846 [INFO] Get User Credentials
+2024-01-10 17:56:30,846 [INFO] Sign In test1@mail.ru
+2024-01-10 17:56:31,319 [INFO] Sign In Success
+2024-01-10 17:56:31,322 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:56:35,194 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:56:36,491 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:56:46,413 [INFO] Closing APP
+2024-01-10 17:56:55,286 [INFO] Get User Credentials
+2024-01-10 17:56:55,286 [INFO] Sign In test1@mail.ru
+2024-01-10 17:56:55,674 [INFO] Sign In Success
+2024-01-10 17:56:55,677 [INFO] Get Favourites From Cloud Data
+2024-01-10 17:57:02,198 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-10 17:57:04,780 [INFO] Closing APP
+2024-01-10 18:40:49,955 [INFO] Get User Credentials
+2024-01-10 18:40:49,956 [INFO] Sign In test1@mail.ru
+2024-01-10 18:40:50,468 [INFO] Sign In Success
+2024-01-10 18:40:50,470 [INFO] Get Favourites From Cloud Data
+2024-01-10 18:40:55,399 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-10 18:42:02,793 [INFO] Get User Credentials
+2024-01-10 18:42:02,794 [INFO] Sign In test1@mail.ru
+2024-01-10 18:42:03,191 [INFO] Sign In Success
+2024-01-10 18:42:03,192 [INFO] Get Favourites From Cloud Data
+2024-01-10 18:42:07,368 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-10 18:42:19,580 [INFO] Get User Credentials
+2024-01-10 18:42:19,580 [INFO] Sign In test1@mail.ru
+2024-01-10 18:42:20,009 [INFO] Sign In Success
+2024-01-10 18:42:20,012 [INFO] Get Favourites From Cloud Data
+2024-01-10 18:42:24,451 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-10 18:42:38,831 [INFO] Get User Credentials
+2024-01-10 18:42:38,831 [INFO] Sign In test1@mail.ru
+2024-01-10 18:42:39,340 [INFO] Sign In Success
+2024-01-10 18:42:39,342 [INFO] Get Favourites From Cloud Data
+2024-01-10 18:42:42,939 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-10 18:42:46,809 [INFO] Closing APP
+2024-01-10 18:42:49,108 [INFO] Get User Credentials
+2024-01-10 18:43:34,214 [INFO] Get User Credentials
+2024-01-10 18:46:59,421 [INFO] Get User Credentials
+2024-01-10 18:46:59,421 [INFO] Sign In test1@mail.ru
+2024-01-10 18:47:00,602 [INFO] Sign In Success
+2024-01-10 18:47:00,603 [INFO] Get Favourites From Cloud Data
+2024-01-10 18:47:27,245 [INFO] Closing APP
+2024-01-10 18:47:29,510 [INFO] Get User Credentials
+2024-01-10 18:47:29,511 [INFO] Sign In test1@mail.ru
+2024-01-10 18:47:29,922 [INFO] Sign In Success
+2024-01-10 18:47:29,923 [INFO] Get Favourites From Cloud Data
+2024-01-10 18:47:50,184 [INFO] Get User Credentials
+2024-01-10 18:47:50,184 [INFO] Sign In test1@mail.ru
+2024-01-10 18:47:50,608 [INFO] Sign In Success
+2024-01-10 18:47:50,610 [INFO] Get Favourites From Cloud Data
+2024-01-10 18:55:18,600 [INFO] Get User Credentials
+2024-01-10 18:55:18,600 [INFO] Sign In test1@mail.ru
+2024-01-10 18:55:19,103 [INFO] Sign In Success
+2024-01-10 18:55:19,106 [INFO] Get Favourites From Cloud Data
+2024-01-10 19:16:51,455 [INFO] Closing APP
+2024-01-10 19:16:53,896 [INFO] Get User Credentials
+2024-01-10 19:16:53,907 [INFO] Sign In test1@mail.ru
+2024-01-10 19:16:54,448 [INFO] Sign In Success
+2024-01-10 19:16:54,451 [INFO] Get Favourites From Cloud Data
+2024-01-10 19:17:24,873 [INFO] Set Favourite https://www.cian.ru/rent/flat/297079034/
+2024-01-10 19:17:29,571 [INFO] Set Favourite https://www.avito.ru/novosibirsk/kvartiry/3-k._kvartira_62_m_99_et._4065961826
+2024-01-10 19:17:31,976 [INFO] Closing APP
+2024-01-10 19:17:37,480 [INFO] Get User Credentials
+2024-01-10 19:17:37,489 [INFO] Sign In test1@mail.ru
+2024-01-10 19:17:37,933 [INFO] Sign In Success
+2024-01-10 19:17:37,935 [INFO] Get Favourites From Cloud Data
+2024-01-10 19:17:47,968 [INFO] Closing APP
+2024-01-10 20:13:32,672 [INFO] Get User Credentials
+2024-01-10 20:14:07,635 [INFO] Get User Credentials
+2024-01-10 20:14:07,644 [INFO] Sign In test1@mail.ru
+2024-01-10 20:14:08,078 [INFO] Sign In Success
+2024-01-10 20:14:08,079 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:24:41,695 [INFO] Closing APP
+2024-01-10 20:24:44,338 [INFO] Get User Credentials
+2024-01-10 20:24:44,346 [INFO] Sign In test1@mail.ru
+2024-01-10 20:24:44,764 [INFO] Sign In Success
+2024-01-10 20:24:44,767 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:25:50,353 [INFO] Closing APP
+2024-01-10 20:26:06,262 [INFO] Get User Credentials
+2024-01-10 20:26:06,270 [INFO] Sign In test1@mail.ru
+2024-01-10 20:26:06,762 [INFO] Sign In Success
+2024-01-10 20:26:06,766 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:28:09,861 [INFO] Closing APP
+2024-01-10 20:29:43,790 [INFO] Get User Credentials
+2024-01-10 20:29:43,800 [INFO] Sign In test1@mail.ru
+2024-01-10 20:29:44,267 [INFO] Sign In Success
+2024-01-10 20:29:44,269 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:30:01,594 [INFO] Closing APP
+2024-01-10 20:30:52,582 [INFO] Get User Credentials
+2024-01-10 20:30:52,592 [INFO] Sign In test1@mail.ru
+2024-01-10 20:30:53,079 [INFO] Sign In Success
+2024-01-10 20:30:53,080 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:31:02,143 [INFO] Closing APP
+2024-01-10 20:32:48,547 [INFO] Get User Credentials
+2024-01-10 20:32:55,670 [INFO] Get User Credentials
+2024-01-10 20:33:08,142 [INFO] Get User Credentials
+2024-01-10 20:33:22,068 [INFO] Get User Credentials
+2024-01-10 20:33:22,078 [INFO] Sign In test1@mail.ru
+2024-01-10 20:33:22,645 [INFO] Sign In Success
+2024-01-10 20:33:22,647 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:34:01,863 [INFO] Closing APP
+2024-01-10 20:34:08,298 [INFO] Get User Credentials
+2024-01-10 20:34:08,306 [INFO] Sign In test1@mail.ru
+2024-01-10 20:34:08,817 [INFO] Sign In Success
+2024-01-10 20:34:08,819 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:34:19,838 [INFO] Closing APP
+2024-01-10 20:34:48,758 [INFO] Get User Credentials
+2024-01-10 20:34:48,769 [INFO] Sign In test1@mail.ru
+2024-01-10 20:34:49,193 [INFO] Sign In Success
+2024-01-10 20:34:49,195 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:35:06,500 [INFO] Closing APP
+2024-01-10 20:35:43,742 [INFO] Get User Credentials
+2024-01-10 20:35:43,752 [INFO] Sign In test1@mail.ru
+2024-01-10 20:35:44,156 [INFO] Sign In Success
+2024-01-10 20:35:44,157 [INFO] Get Favourites From Cloud Data
+2024-01-10 20:36:02,043 [INFO] Closing APP
+2024-01-10 21:22:23,588 [INFO] Get User Credentials
+2024-01-10 21:22:23,598 [INFO] Sign In test1@mail.ru
+2024-01-10 21:22:24,101 [INFO] Sign In Success
+2024-01-10 21:22:24,103 [INFO] Get Favourites From Cloud Data
+2024-01-10 21:22:42,742 [INFO] Closing APP
+2024-01-10 21:23:00,057 [INFO] Get User Credentials
+2024-01-10 21:23:00,067 [INFO] Sign In test1@mail.ru
+2024-01-10 21:23:00,477 [INFO] Sign In Success
+2024-01-10 21:23:00,479 [INFO] Get Favourites From Cloud Data
+2024-01-10 21:23:13,726 [INFO] Closing APP
+2024-01-10 21:23:24,347 [INFO] Get User Credentials
+2024-01-10 21:23:24,355 [INFO] Sign In test1@mail.ru
+2024-01-10 21:23:24,875 [INFO] Sign In Success
+2024-01-10 21:23:24,876 [INFO] Get Favourites From Cloud Data
+2024-01-10 21:23:39,792 [INFO] Closing APP
+2024-01-10 21:23:55,958 [INFO] Get User Credentials
+2024-01-10 21:23:55,966 [INFO] Sign In test1@mail.ru
+2024-01-10 21:23:56,345 [INFO] Sign In Success
+2024-01-10 21:23:56,346 [INFO] Get Favourites From Cloud Data
+2024-01-10 21:24:15,908 [INFO] Closing APP
+2024-01-10 21:24:39,449 [INFO] Get User Credentials
+2024-01-10 21:24:39,458 [INFO] Sign In test1@mail.ru
+2024-01-10 21:24:39,910 [INFO] Sign In Success
+2024-01-10 21:24:39,913 [INFO] Get Favourites From Cloud Data
+2024-01-10 21:27:26,061 [INFO] Closing APP
+2024-01-10 21:27:28,578 [INFO] Get User Credentials
+2024-01-10 21:27:28,585 [INFO] Sign In test1@mail.ru
+2024-01-10 21:27:29,088 [INFO] Sign In Success
+2024-01-10 21:27:29,090 [INFO] Get Favourites From Cloud Data
+2024-01-10 21:27:44,825 [INFO] Closing APP
+2024-01-10 21:28:25,052 [INFO] Get User Credentials
+2024-01-10 21:28:25,062 [INFO] Sign In test1@mail.ru
+2024-01-10 21:28:25,462 [INFO] Sign In Success
+2024-01-10 21:28:25,465 [INFO] Get Favourites From Cloud Data
+2024-01-10 21:28:40,404 [INFO] Closing APP
+2024-01-10 21:31:55,252 [INFO] Get User Credentials
+2024-01-10 21:32:02,141 [INFO] Get User Credentials
+2024-01-10 21:34:18,355 [INFO] Get User Credentials
+2024-01-10 21:34:18,366 [INFO] Sign In test1@mail.ru
+2024-01-10 21:34:18,824 [INFO] Sign In Success
+2024-01-10 21:34:18,825 [INFO] Get Favourites From Cloud Data
+2024-01-11 12:19:57,835 [INFO] Closing APP
+2024-01-11 15:22:34,408 [INFO] Get User Credentials
+2024-01-11 15:22:34,418 [INFO] Sign In test1@mail.ru
+2024-01-11 15:22:34,887 [INFO] Sign In Success
+2024-01-11 15:22:34,889 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:22:53,910 [INFO] Closing APP
+2024-01-11 15:22:56,239 [INFO] Get User Credentials
+2024-01-11 15:22:56,247 [INFO] Sign In test1@mail.ru
+2024-01-11 15:22:56,954 [INFO] Sign In Success
+2024-01-11 15:22:56,956 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:23:47,121 [INFO] Closing APP
+2024-01-11 15:25:26,968 [INFO] Get User Credentials
+2024-01-11 15:25:26,978 [INFO] Sign In test1@mail.ru
+2024-01-11 15:25:27,379 [INFO] Sign In Success
+2024-01-11 15:25:27,382 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:25:57,228 [INFO] Closing APP
+2024-01-11 15:27:28,063 [INFO] Get User Credentials
+2024-01-11 15:27:28,072 [INFO] Sign In test1@mail.ru
+2024-01-11 15:27:28,484 [INFO] Sign In Success
+2024-01-11 15:27:28,486 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:27:41,899 [INFO] Get User Credentials
+2024-01-11 15:27:41,907 [INFO] Sign In test1@mail.ru
+2024-01-11 15:27:42,324 [INFO] Sign In Success
+2024-01-11 15:27:42,326 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:27:44,970 [INFO] Closing APP
+2024-01-11 15:28:59,045 [INFO] Get User Credentials
+2024-01-11 15:28:59,053 [INFO] Sign In test1@mail.ru
+2024-01-11 15:28:59,458 [INFO] Sign In Success
+2024-01-11 15:28:59,460 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:29:43,423 [INFO] Get User Credentials
+2024-01-11 15:29:43,430 [INFO] Sign In test1@mail.ru
+2024-01-11 15:29:43,872 [INFO] Sign In Success
+2024-01-11 15:29:43,873 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:30:09,954 [INFO] Get User Credentials
+2024-01-11 15:30:09,961 [INFO] Sign In test1@mail.ru
+2024-01-11 15:30:10,378 [INFO] Sign In Success
+2024-01-11 15:30:10,378 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:43:28,746 [INFO] Get User Credentials
+2024-01-11 15:43:28,756 [INFO] Sign In test1@mail.ru
+2024-01-11 15:43:29,182 [INFO] Sign In Success
+2024-01-11 15:43:29,186 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:44:06,375 [INFO] Closing APP
+2024-01-11 15:44:10,679 [INFO] Get User Credentials
+2024-01-11 15:44:10,688 [INFO] Sign In test1@mail.ru
+2024-01-11 15:44:11,098 [INFO] Sign In Success
+2024-01-11 15:44:11,100 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:44:16,481 [INFO] Closing APP
+2024-01-11 15:45:06,025 [INFO] Get User Credentials
+2024-01-11 15:45:06,033 [INFO] Sign In test1@mail.ru
+2024-01-11 15:45:06,490 [INFO] Sign In Success
+2024-01-11 15:45:06,493 [INFO] Get Favourites From Cloud Data
+2024-01-11 15:45:18,853 [INFO] Closing APP
+2024-01-11 16:07:18,551 [INFO] Get User Credentials
+2024-01-11 16:07:18,561 [INFO] Sign In test1@mail.ru
+2024-01-11 16:07:19,014 [INFO] Sign In Success
+2024-01-11 16:07:19,016 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:21:20,819 [INFO] Get User Credentials
+2024-01-11 16:21:20,829 [INFO] Sign In test1@mail.ru
+2024-01-11 16:21:21,346 [INFO] Sign In Success
+2024-01-11 16:21:21,349 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:21:32,421 [INFO] Get User Credentials
+2024-01-11 16:21:32,429 [INFO] Sign In test1@mail.ru
+2024-01-11 16:21:32,919 [INFO] Sign In Success
+2024-01-11 16:21:32,922 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:21:48,697 [INFO] Get User Credentials
+2024-01-11 16:21:48,705 [INFO] Sign In test1@mail.ru
+2024-01-11 16:21:49,175 [INFO] Sign In Success
+2024-01-11 16:21:49,177 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:22:32,233 [INFO] Get User Credentials
+2024-01-11 16:22:32,244 [INFO] Sign In test1@mail.ru
+2024-01-11 16:22:32,750 [INFO] Sign In Success
+2024-01-11 16:22:32,752 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:23:09,083 [INFO] Get User Credentials
+2024-01-11 16:23:09,093 [INFO] Sign In test1@mail.ru
+2024-01-11 16:23:09,542 [INFO] Sign In Success
+2024-01-11 16:23:09,544 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:23:42,244 [INFO] Get User Credentials
+2024-01-11 16:23:42,252 [INFO] Sign In test1@mail.ru
+2024-01-11 16:23:42,763 [INFO] Sign In Success
+2024-01-11 16:23:42,765 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:24:42,802 [INFO] Get User Credentials
+2024-01-11 16:24:42,810 [INFO] Sign In test1@mail.ru
+2024-01-11 16:24:43,203 [INFO] Sign In Success
+2024-01-11 16:24:43,205 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:25:34,995 [INFO] Get User Credentials
+2024-01-11 16:25:35,004 [INFO] Sign In test1@mail.ru
+2024-01-11 16:25:35,417 [INFO] Sign In Success
+2024-01-11 16:25:35,419 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:27:37,079 [INFO] Get User Credentials
+2024-01-11 16:27:37,090 [INFO] Sign In test1@mail.ru
+2024-01-11 16:27:37,516 [INFO] Sign In Success
+2024-01-11 16:27:37,518 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:28:33,238 [INFO] Get User Credentials
+2024-01-11 16:28:33,248 [INFO] Sign In test1@mail.ru
+2024-01-11 16:28:33,747 [INFO] Sign In Success
+2024-01-11 16:28:33,748 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:29:16,033 [INFO] Closing APP
+2024-01-11 16:30:39,572 [INFO] Get User Credentials
+2024-01-11 16:30:39,582 [INFO] Sign In test1@mail.ru
+2024-01-11 16:30:40,003 [INFO] Sign In Success
+2024-01-11 16:30:40,005 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:30:53,998 [INFO] Closing APP
+2024-01-11 16:31:11,973 [INFO] Get User Credentials
+2024-01-11 16:31:11,981 [INFO] Sign In test1@mail.ru
+2024-01-11 16:31:12,395 [INFO] Sign In Success
+2024-01-11 16:31:12,397 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:31:20,075 [INFO] Closing APP
+2024-01-11 16:31:28,773 [INFO] Get User Credentials
+2024-01-11 16:31:28,780 [INFO] Sign In test1@mail.ru
+2024-01-11 16:31:29,179 [INFO] Sign In Success
+2024-01-11 16:31:29,180 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:31:37,466 [INFO] Closing APP
+2024-01-11 16:34:31,554 [INFO] Get User Credentials
+2024-01-11 16:34:31,565 [INFO] Sign In test1@mail.ru
+2024-01-11 16:34:32,000 [INFO] Sign In Success
+2024-01-11 16:34:32,002 [INFO] Get Favourites From Cloud Data
+2024-01-11 16:34:42,333 [INFO] Closing APP
+2024-01-11 17:03:10,643 [INFO] Get User Credentials
+2024-01-11 17:03:10,654 [INFO] Sign In test1@mail.ru
+2024-01-11 17:03:11,126 [INFO] Sign In Success
+2024-01-11 17:03:11,129 [INFO] Get Favourites From Cloud Data
+2024-01-11 17:03:16,627 [INFO] Apply Filter Абаза, 0/Infinity, 1
+2024-01-11 17:06:04,832 [INFO] Get User Credentials
+2024-01-11 17:06:04,841 [INFO] Sign In test1@mail.ru
+2024-01-11 17:06:05,364 [INFO] Sign In Success
+2024-01-11 17:06:05,367 [INFO] Get Favourites From Cloud Data
+2024-01-11 17:06:11,844 [INFO] Apply Filter Абаза, 0/Infinity, 2
+2024-01-11 17:20:35,724 [INFO] Get User Credentials
+2024-01-11 17:20:35,733 [INFO] Sign In test1@mail.ru
+2024-01-11 17:20:36,156 [INFO] Sign In Success
+2024-01-11 17:20:36,158 [INFO] Get Favourites From Cloud Data
+2024-01-11 17:20:41,754 [INFO] Apply Filter Абаза, 0/Infinity, 
+2024-01-11 17:21:04,591 [INFO] Closing APP
+2024-01-11 17:22:21,511 [INFO] Get User Credentials
+2024-01-11 17:22:21,523 [INFO] Sign In test1@mail.ru
+2024-01-11 17:22:21,892 [INFO] Sign In Success
+2024-01-11 17:22:21,892 [INFO] Get Favourites From Cloud Data
+2024-01-11 17:22:55,391 [INFO] Closing APP
+2024-01-11 17:34:25,180 [INFO] Get User Credentials
+2024-01-11 17:34:25,193 [INFO] Sign In test1@mail.ru
+2024-01-11 17:34:25,703 [INFO] Sign In Success
+2024-01-11 17:34:25,705 [INFO] Get Favourites From Cloud Data
+2024-01-11 17:34:37,408 [INFO] Closing APP
+2024-01-11 17:35:15,890 [INFO] Get User Credentials
+2024-01-11 17:35:15,902 [INFO] Sign In test1@mail.ru
+2024-01-11 17:35:16,296 [INFO] Sign In Success
+2024-01-11 17:35:16,298 [INFO] Get Favourites From Cloud Data
+2024-01-11 17:35:30,944 [INFO] Apply Filter Абаза, 0/Infinity, 2 Свободная
+2024-01-11 17:40:07,260 [INFO] Closing APP
+2024-01-11 17:40:47,942 [INFO] Get User Credentials
+2024-01-11 17:40:47,957 [INFO] Sign In test1@mail.ru
+2024-01-11 17:40:48,420 [INFO] Sign In Success
+2024-01-11 17:40:48,423 [INFO] Get Favourites From Cloud Data
+2024-01-11 17:41:01,035 [INFO] Apply Filter Новосибирск, 45000/Infinity, 2
+2024-01-11 17:43:04,315 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13d8e74c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/023d77a23764e28160fdd6c2e9b32ae7
+2024-01-11 17:43:04,317 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13d8e7e50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/023d77a23764e28160fdd6c2e9b32ae7
+2024-01-11 17:43:04,318 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13d8e5dc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/023d77a23764e28160fdd6c2e9b32ae7
+2024-01-11 17:43:58,214 [INFO] Closing APP
+2024-01-11 17:44:48,534 [INFO] Get User Credentials
+2024-01-11 17:45:08,101 [INFO] Get User Credentials
+2024-01-11 17:45:23,852 [INFO] Get User Credentials
+2024-01-11 17:45:24,935 [INFO] Closing APP
+2024-01-11 17:45:56,666 [INFO] Get User Credentials
+2024-01-11 17:45:57,980 [INFO] Closing APP
+2024-01-11 17:46:17,598 [INFO] Get User Credentials
+2024-01-11 17:46:20,015 [INFO] Closing APP
+2024-01-11 17:46:29,849 [INFO] Get User Credentials
+2024-01-11 17:46:30,474 [INFO] Closing APP
+2024-01-11 17:46:40,454 [INFO] Get User Credentials
+2024-01-11 17:46:41,611 [INFO] Closing APP
+2024-01-11 17:47:28,118 [INFO] Get User Credentials
+2024-01-11 17:47:38,965 [INFO] Closing APP
+2024-01-11 17:53:24,544 [INFO] Get User Credentials
+2024-01-11 17:53:30,959 [INFO] Closing APP
+2024-01-11 17:54:07,344 [INFO] Get User Credentials
+2024-01-11 17:54:12,292 [INFO] Closing APP
+2024-01-11 17:57:28,850 [INFO] Get User Credentials
+2024-01-11 17:57:29,541 [INFO] Closing APP
+2024-01-11 17:57:40,191 [INFO] Get User Credentials
+2024-01-11 17:57:41,900 [INFO] Closing APP
+2024-01-11 18:06:28,655 [INFO] Get User Credentials
+2024-01-11 18:06:31,524 [INFO] Closing APP
+2024-01-11 18:06:48,053 [INFO] Get User Credentials
+2024-01-11 18:06:53,535 [INFO] Closing APP
+2024-01-11 18:21:05,281 [INFO] Get User Credentials
+2024-01-11 18:21:11,151 [INFO] Closing APP
+2024-03-28 13:13:45,388 [INFO] Get User Credentials
+2024-03-28 13:14:11,545 [INFO] Set Comment https://google.com: "1" 
+2024-03-28 13:14:11,598 [INFO] Set Comment https://google.com: "12" 
+2024-03-28 13:14:11,690 [INFO] Set Comment https://google.com: "123" 
+2024-03-28 13:14:34,945 [INFO] Get User Credentials
+2024-03-28 13:14:39,658 [INFO] Set Comment https://google.com: "1" 
+2024-03-28 13:14:39,713 [INFO] Set Comment https://google.com: "12" 
+2024-03-28 13:14:39,805 [INFO] Set Comment https://google.com: "123" 
+2024-03-28 13:14:50,374 [INFO] Closing APP
+2024-03-28 13:16:48,019 [INFO] Get User Credentials
+2024-03-28 13:16:50,971 [INFO] Closing APP
+2024-03-28 13:17:15,727 [INFO] Get User Credentials
+2024-03-28 13:17:17,689 [INFO] Closing APP
+2024-03-28 13:18:04,206 [INFO] Get User Credentials
+2024-03-28 13:18:27,109 [INFO] Apply Filter Москва, 0/Infinity, 
+2024-03-28 13:20:50,411 [INFO] Closing APP

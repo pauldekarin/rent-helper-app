@@ -1,0 +1,53 @@
+
+QMainWindow{
+    background-color:#FBF1E5;
+}
+
+#input{
+    background:transparent;
+    border-style:solid;
+    border-color:black;
+    border-width:4;
+    border-radius:20px;
+    color:#3D3D3D;
+    font-weight:900;
+}
+#input:focus{
+    background:#F3AA60;
+}
+
+#filter{
+    background-color:#EF6262;
+    border-left:4px solid black;
+}
+#comment{
+    border-style:dashed;
+    border-width:4;
+    border-color:#828282;
+    border-radius:40px;
+    background-color:rgba(217,217,217,.31);
+    padding:10px;
+    font-weight:bold;
+}
+
+#comment:focus{
+    border-style:solid;
+    border-color:'black';
+    background-color:#F3AA60;
+}
+
+QLabel#notification{
+    font-size: 40px;
+    color: #EF6262;
+    font-weight: 900;
+}
+QLabel{
+    font-family:Piazzolla;   
+    font-weight:200;
+}
+QPushButton{
+    font-family:Piazzolla;
+}
+QLineEdit{
+    font-family:Piazzolla;
+}
