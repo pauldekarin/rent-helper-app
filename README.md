@@ -11,3 +11,9 @@
   
 <h1>APP</h1>
 <img src="./stock/frame_1.png"/>
+<h1>Stack Technologies</h1>
+> Python
+> PyQt
+> MVM
+> Figma
+> Selenium
